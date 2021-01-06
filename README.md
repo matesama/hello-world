@@ -1,2 +1,3 @@
 # hello-world
-Test Ideas and Coding practice
+
+My first repository on github.
